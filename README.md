@@ -1,5 +1,7 @@
 # react-base-project
 
+react+express server render project 
+
 # step1
 ```
 npx webpack --config webpack.client.js
